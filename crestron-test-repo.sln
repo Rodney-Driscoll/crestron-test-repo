@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crestron-csharp-test", "crestron-csharp-test\crestron-csharp-test.csproj", "{8BF12D9B-875A-4415-AB0D-1EE4EEC4C0A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BF12D9B-875A-4415-AB0D-1EE4EEC4C0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF12D9B-875A-4415-AB0D-1EE4EEC4C0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF12D9B-875A-4415-AB0D-1EE4EEC4C0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF12D9B-875A-4415-AB0D-1EE4EEC4C0A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2697B95-6081-4CA0-B630-34F69FD8E6AE}
+	EndGlobalSection
+EndGlobal
